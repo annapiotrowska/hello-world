@@ -1,4 +1,8 @@
 # hello-world
 studia_ug
-Testowa modyfikacja README.md 
-Jestem w trakcie kursu Python na studiach podyplomowych na UG.
+
+Skrypty na zaliczenie I semestru wykładu z Pythona.
+Pierwszy skrypt: init_my_db.py - tworzy tabele
+Drugi skrypt: repository.py - tworzy Object Relational Mapper (Repository pattern)
+Trzeci skrypt: unitest_my.py - przeprowadza testy na bazie
+
